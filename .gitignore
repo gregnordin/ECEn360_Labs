@@ -1,0 +1,7 @@
+*.pyc
+.ipynb_checkpoints
+*.pdf
+*.raw
+*.log
+*.plt
+
